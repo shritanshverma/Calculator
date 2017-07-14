@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\num.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\num.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
